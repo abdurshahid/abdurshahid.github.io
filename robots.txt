@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://abdurshahid.github.io/sitemap.xml
