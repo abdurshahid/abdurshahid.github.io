@@ -1,0 +1,71 @@
+cv:
+  name: Abdur Rahman Bin Shahid
+  label: Assistant Professor and Director of SHIELD Lab
+  email: shahid@cs.siu.edu
+  location: Carbondale, Illinois
+  image: ""
+  summary: Researcher and educator working on secure, private, trustworthy, and sustainable intelligent systems.
+
+  sections:
+    Education:
+      - institution: Florida International University
+        location: Miami, Florida
+        area: Computer Science
+        studyType: Ph.D.
+        end_date: 2019
+        highlights:
+          - Trajectory Privacy Preservation and Lightweight Blockchain Techniques for Mobility-Centric IoT
+      - institution: Florida International University
+        location: Miami, Florida
+        area: Computer Science
+        studyType: M.S.
+        end_date: 2018
+      - institution: Chittagong University of Engineering and Technology
+        location: Chittagong, Bangladesh
+        area: Computer Science and Engineering
+        studyType: B.S.
+        end_date: 2011
+
+    Experience:
+      - company: Southern Illinois University Carbondale
+        position: Assistant Professor of Computer Science and Director, SHIELD Lab
+        location: Carbondale, Illinois
+        start_date: 2023
+        end_date: Present
+        highlights:
+          - Lead research in AI security, privacy, multimodal systems, federated learning, edge intelligence, and digital forensics.
+          - Advise Ph.D., master's, and undergraduate researchers.
+      - company: Robert Morris University
+        position: Assistant Professor of Computer and Information Systems
+        location: Moon Township, Pennsylvania
+        start_date: 2021
+        end_date: 2023
+      - company: Concord University
+        position: Assistant Professor of Computer Science
+        location: Athens, West Virginia
+        start_date: 2020
+        end_date: 2021
+      - company: Samsung R&D Institute Bangladesh / Samsung Electronics
+        position: Software Engineer
+        location: Dhaka, Bangladesh / Suwon, South Korea
+        start_date: 2012
+        end_date: 2014
+        highlights:
+          - Developed and maintained Android homescreen and weather applications for commercial Samsung devices.
+
+    Awards:
+      - title: Best Graduate Student in Research
+        awarder: Florida International University
+        date: 2019
+      - title: Dissertation Year Fellowship
+        awarder: Florida International University
+        date: 2019
+      - title: Summer Research Faculty Award
+        awarder: Robert Morris University
+        date: 2022
+
+    Skills:
+      - name: Research Areas
+        keywords: "AI security, trustworthy AI, multimodal AI, generative AI, federated learning, privacy-preserving ML, edge AI, cyber-physical systems, digital forensics"
+      - name: Technical
+        keywords: "Python, PyTorch, Hugging Face, LangChain, Android, Linux, Docker, edge and wearable platforms"
